@@ -1,4 +1,3 @@
-Sure. Since this is your **GitHub/project README**, here's a polished version you can directly use.
 
 # SMART FACTORY GUARDIAN
 
