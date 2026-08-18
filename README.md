@@ -202,11 +202,9 @@ Maintenance decisions are generated from numerical sensor analysis rather than m
 ## 📁 Project Structure
 
 ```text
-SMART-FACTORY-GUARDIAN/
+2502190005_lab04/
 │
-├── SMART_FACTORY_GUARDIAN.ipynb
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
